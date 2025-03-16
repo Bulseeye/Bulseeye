@@ -9,7 +9,7 @@ Ik blijf bijleren en hoop zo een job binnen de IT te vinden.
 - 🌍 I'm from Oost-Vlaanderen, Belgie
 - 📫 Reach me at [Chris_je@live.Be](mailto:Chris_je@live.Be)
 - 👨‍💻 Check out my portfolio at [MyPortfolio](http://Work in progress)
-- 📄 Check out my resume at [MyResume]([http://docs.google.com/document/d/1QjKv5oSt48YdC6HW2w4Wm443YNlrTf4h/edit?usp=sharing&ouid=109432445987852659907&rtpof=true&sd=true](https://docs.google.com/document/d/1UPzUtPqGIVPiCcI6brjohHIPZPRxx7ow/edit?usp=sharing&ouid=109432445987852659907&rtpof=true&sd=true))
+- 📄 Check out my resume at [MyResume](https://docs.google.com/document/d/1UPzUtPqGIVPiCcI6brjohHIPZPRxx7ow/edit?usp=drive_link&ouid=109432445987852659907&rtpof=true&sd=true)
 - 🔭 I'm currently working on [100 Days of code](https://www.udemy.com/course/100-days-of-code/)
 - 🌱 I'm currently learning Datastructures and Algorithms
 - 💬 Ask me about All Programming Related
