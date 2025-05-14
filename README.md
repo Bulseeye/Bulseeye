@@ -5,6 +5,7 @@
 Passievolle Full-Stack Web developer met opleiding Graduaat in netwerkbeheer.
 Maar achteraf meer interesse in het programmeren en typen van code.
 Ik blijf bijleren en hoop zo een job binnen de IT te vinden.
+
 (ENG)
 Passionate Full-Stack Web developer with a degree in network management.
 But in retrospect more interested in programming and typing code.
