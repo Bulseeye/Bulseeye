@@ -1,10 +1,14 @@
 # Hello 👋 I am Thomas Christophe
 
 ## Full Stack Web Developer
-
+(NL)
 Passievolle Full-Stack Web developer met opleiding Graduaat in netwerkbeheer.
 Maar achteraf meer interesse in het programmeren en typen van code.
 Ik blijf bijleren en hoop zo een job binnen de IT te vinden.
+(ENG)
+Passionate Full-Stack Web developer with a degree in network management.
+But in retrospect more interested in programming and typing code.
+I keep learning and hope to find a job in IT.
 
 - 🌍 I'm from Oost-Vlaanderen, Belgie
 - 📫 Reach me at [Chris_je@live.Be](mailto:Chris_je@live.Be)
